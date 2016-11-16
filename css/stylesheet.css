@@ -1,0 +1,21 @@
+body{
+  background-color: #FAFAFA;
+}
+
+h1{
+  color: #D50000;
+  font-style: italic;
+}
+h2{
+  color: #4A148C;
+font-style: italic;
+
+}
+ul{
+  font-family: serif;
+  font-size: 100%
+}
+img{
+  width:540px;
+  height: auto;
+}
